@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="second_activity">Second Activity</string>
+    <string name="action_settings">Settings</string>
+    <string name="f1a1_label">F1A1</string>
+    <string name="f1a2_label">F1A2</string>
+    <string name="f2a2_label">F2A2</string>
+    <string name="f3a2_label">F3A2</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="send_to_second_activity">Send to second activity</string>
+    <string name="add_second_fragment">Add second fragment</string>
+    <string name="replace_fragment">Replace fragment</string>
+    <string name="back_to_f1a2">Back to F1A2</string>
+    <string name="close_activity">Close activity</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hello_third_fragment">Hello third fragment</string>
+</resources>
